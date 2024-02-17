@@ -1,0 +1,304 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"gender": "Male",
+			"name": "John",
+			"salary": 50000
+		},
+		{
+			"id": 2,
+			"gender": "Female",
+			"name": "Alice",
+			"salary": 55000
+		},
+		{
+			"id": 3,
+			"gender": "Male",
+			"name": "Michael",
+			"salary": 60000
+		},
+		{
+			"id": 4,
+			"gender": "Female",
+			"name": "Emily",
+			"salary": 52000
+		},
+		{
+			"id": 5,
+			"gender": "Male",
+			"name": "James",
+			"salary": 48000
+		},
+		{
+			"id": 6,
+			"gender": "Female",
+			"name": "Sophia",
+			"salary": 51000
+		},
+		{
+			"id": 7,
+			"gender": "Male",
+			"name": "William",
+			"salary": 62000
+		},
+		{
+			"id": 8,
+			"gender": "Female",
+			"name": "Olivia",
+			"salary": 59000
+		},
+		{
+			"id": 9,
+			"gender": "Male",
+			"name": "Alexander",
+			"salary": 53000
+		},
+		{
+			"id": 10,
+			"gender": "Female",
+			"name": "Emma",
+			"salary": 57000
+		},
+		{
+			"id": 11,
+			"gender": "Male",
+			"name": "Daniel",
+			"salary": 55000
+		},
+		{
+			"id": 12,
+			"gender": "Female",
+			"name": "Ava",
+			"salary": 60000
+		},
+		{
+			"id": 13,
+			"gender": "Male",
+			"name": "Matthew",
+			"salary": 51000
+		},
+		{
+			"id": 14,
+			"gender": "Female",
+			"name": "Isabella",
+			"salary": 54000
+		},
+		{
+			"id": 15,
+			"gender": "Male",
+			"name": "David",
+			"salary": 58000
+		},
+		{
+			"id": 16,
+			"gender": "Female",
+			"name": "Mia",
+			"salary": 62000
+		},
+		{
+			"id": 17,
+			"gender": "Male",
+			"name": "Joseph",
+			"salary": 56000
+		},
+		{
+			"id": 18,
+			"gender": "Female",
+			"name": "Sophia",
+			"salary": 53000
+		},
+		{
+			"id": 19,
+			"gender": "Male",
+			"name": "Benjamin",
+			"salary": 64000
+		},
+		{
+			"id": 20,
+			"gender": "Female",
+			"name": "Charlotte",
+			"salary": 58000
+		},
+		{
+			"id": 21,
+			"gender": "Male",
+			"name": "Henry",
+			"salary": 59000
+		},
+		{
+			"id": 22,
+			"gender": "Female",
+			"name": "Amelia",
+			"salary": 55000
+		},
+		{
+			"id": 23,
+			"gender": "Male",
+			"name": "Jacob",
+			"salary": 51000
+		},
+		{
+			"id": 24,
+			"gender": "Female",
+			"name": "Ella",
+			"salary": 57000
+		},
+		{
+			"id": 25,
+			"gender": "Male",
+			"name": "Christopher",
+			"salary": 52000
+		},
+		{
+			"id": 26,
+			"gender": "Female",
+			"name": "Grace",
+			"salary": 60000
+		},
+		{
+			"id": 27,
+			"gender": "Male",
+			"name": "Andrew",
+			"salary": 53000
+		},
+		{
+			"id": 28,
+			"gender": "Female",
+			"name": "Lily",
+			"salary": 59000
+		},
+		{
+			"id": 29,
+			"gender": "Male",
+			"name": "Joshua",
+			"salary": 55000
+		},
+		{
+			"id": 30,
+			"gender": "Female",
+			"name": "Chloe",
+			"salary": 57000
+		},
+		{
+			"id": 31,
+			"gender": "Male",
+			"name": "Ethan",
+			"salary": 56000
+		},
+		{
+			"id": 32,
+			"gender": "Female",
+			"name": "Zoe",
+			"salary": 60000
+		},
+		{
+			"id": 33,
+			"gender": "Male",
+			"name": "Ryan",
+			"salary": 54000
+		},
+		{
+			"id": 34,
+			"gender": "Female",
+			"name": "Madison",
+			"salary": 58000
+		},
+		{
+			"id": 35,
+			"gender": "Male",
+			"name": "Nathan",
+			"salary": 57000
+		},
+		{
+			"id": 36,
+			"gender": "Female",
+			"name": "Nora",
+			"salary": 54000
+		},
+		{
+			"id": 37,
+			"gender": "Male",
+			"name": "Samuel",
+			"salary": 62000
+		},
+		{
+			"id": 38,
+			"gender": "Female",
+			"name": "Hannah",
+			"salary": 61000
+		},
+		{
+			"id": 39,
+			"gender": "Male",
+			"name": "Christian",
+			"salary": 57000
+		},
+		{
+			"id": 40,
+			"gender": "Female",
+			"name": "Eleanor",
+			"salary": 56000
+		},
+		{
+			"id": 41,
+			"gender": "Male",
+			"name": "Dylan",
+			"salary": 52000
+		},
+		{
+			"id": 42,
+			"gender": "Female",
+			"name": "Avery",
+			"salary": 59000
+		},
+		{
+			"id": 43,
+			"gender": "Male",
+			"name": "Jordan",
+			"salary": 53000
+		},
+		{
+			"id": 44,
+			"gender": "Female",
+			"name": "Samantha",
+			"salary": 58000
+		},
+		{
+			"id": 45,
+			"gender": "Male",
+			"name": "Nicholas",
+			"salary": 55000
+		},
+		{
+			"id": 46,
+			"gender": "Female",
+			"name": "Elizabeth",
+			"salary": 62000
+		},
+		{
+			"id": 47,
+			"gender": "Male",
+			"name": "Caleb",
+			"salary": 54000
+		},
+		{
+			"id": 48,
+			"gender": "Female",
+			"name": "Aria",
+			"salary": 60000
+		},
+		{
+			"id": 49,
+			"gender": "Male",
+			"name": "Logan",
+			"salary": 56000
+		},
+		{
+			"id": 50,
+			"gender": "Female",
+			"name": "Penelope",
+			"salary": 57000
+		}
+	]
+}
